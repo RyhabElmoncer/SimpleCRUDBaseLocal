@@ -1,0 +1,2 @@
+# SimpleCRUDLocal
+Simple projet academique 
