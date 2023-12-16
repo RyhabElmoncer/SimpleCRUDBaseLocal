@@ -33,3 +33,8 @@ Obtenez des statistiques telles que le nombre d'employés, le salaire moyen, etc
 Choisissez un thème Bootstrap sur bootswatch.com.
 Téléchargez le fichier CSS et ajoutez-le au dossier wwwroot/css.
 Modifiez le fichier _Layout.cshtml pour utiliser le nouveau thème.
+# Output 
+
+
+https://github.com/RyhabElmoncer/SimpleCRUDBaseLocal/assets/126770762/b4ab321c-b699-4f89-b72f-7e0e4128d6b4
+
